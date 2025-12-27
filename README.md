@@ -1,2 +1,2 @@
 # valeafolha
-Implementação do site de notícias https:\\valeafolha.com.br
+Implementação do site de notícias https://valeafolha.com.br
