@@ -17,7 +17,9 @@
   "scripts": {
     "dev": "next dev",
     "lint:check": "prettier --check .",
-    "lint:fix": "prettier --write ."
+    "lint:fix": "prettier --write .",
+    "test": "jest",
+    "test:check": "jest --watch"
   },
   "dependencies": {
     "next": "^16.1.1",
